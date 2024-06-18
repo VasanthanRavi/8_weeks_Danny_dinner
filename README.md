@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
 
 View the [**case study**](https://8weeksqlchallenge.com/case-study-1/) and my [**solution**]
-
+(https://github.com/VasanthanRavi/8_weeks_Danny_dinner/blob/main/Dannis_kitchen.sql)
 ### Business Task:
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. 
 
